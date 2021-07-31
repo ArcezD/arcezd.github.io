@@ -1,7 +1,7 @@
 ---
 title: AWS Elasticache - A Cloud Guru Challenge
 author: Diego Arce
-date: 2021-07-29
+date: 2021-07-30
 hero: ./images/diagram-CGC-june-july-2021.webp
 excerpt: This challenge consists of deploying a simple Python application on an EC2 instance and RDS PostgreSQL database instance, and then optimize the performance of the application caching database queries using an ElastiCache Redis cluster.
 ---
